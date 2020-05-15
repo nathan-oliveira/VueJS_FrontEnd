@@ -1,0 +1,16 @@
+https://cmder.net/
+
+npm install -g @vue/cli
+yarn global add @vue/cli
+
+yarn add bootstrap jquery@~3.4.1 popper.js yarn add vue-router
+
+yarn add @fortawesome/fontawesome-free
+
+### vue ui ###
+vue create app
+
+
+
+=== start ===
+yarn serve
